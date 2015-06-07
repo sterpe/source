@@ -1,1 +1,1 @@
-exports.Source = require('lib/source').Source;
+exports.Source = require('./lib/source').Source;

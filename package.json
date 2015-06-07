@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "payload": "git://github.com/sterpe/payload.git"
+    "kargo": "^0.4.5"
   },
   "devDependencies": {
     "jest-cli": "^0.4.5"
